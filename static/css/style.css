@@ -1,0 +1,36 @@
+body {
+    font-family: "Ubuntu Sans";
+}
+
+.hero {
+    height: 100vh;
+    color: #d5a100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.logo {
+    max-width: 250px;
+    height: auto;
+}
+
+.footer {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.powered-by {
+    font-size: x-small;
+    font-weight: bold;
+}
